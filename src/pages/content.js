@@ -11,29 +11,29 @@ export const about = "A forward-thinking Economics and Computer Science graduate
 // Work Experience --> #work section
 export const work = [
 	{
-		from: "2022",
+		from: "2024",
 		to: "Present",
+		role: "Realtor",
+		org: "Living Realty Inc.",
+		location: "Markham, Ontario",
+		skills: "Systemization, Client Relations, Market Analysis"
+	},
+	{
+		from: "2023",
+		to: "2024",
+		role: "Business Consultant",
+		org: "ServeAI Solutions",
+		location: "Toronto, Ontario",
+		skills: "Call automation implementation, Budgeting, Fundraising"
+	},
+	{
+		from: "2022",
+		to: "2023",
 		role: "Administrative Assistant",
 		org: "RE/MAX REALTRON",
 		org_url: "https://www.remax.ca/on/markham-real-estate",
 		location: "Markham, Ontario",
 		skills: "Process Optimization, Client Service, Data Management"
-	},
-	{
-		from: "2021",
-		to: "2022",
-		role: "Leasing Agent",
-		org: "Blackline Management",
-		location: "Waterloo, Ontario",
-		skills: "Leasing, Client Relations, Market Analysis"
-	},
-	{
-		from: "2020",
-		to: "2022",
-		role: "VP of Finance",
-		org: "Wilfrid Laurier Chinese Student Association (CSA) Club",
-		location: "Waterloo, Ontario",
-		skills: "Financial Management, Budgeting, Fundraising"
 	}
 ]
 
@@ -48,16 +48,18 @@ export const projects = [
 		tech: "OpenAI GPT, Zapier, Notion",
 	},
 	{
-		title: "Research on Government Policies and Real Estate in GTA",
+		from: "Fall",
+		to: "2023",
+		title: "Research Paper: Govt Policies & Realty Prices",
 		description: "Analytical paper evaluating the impact of government actions on GTA real estate prices, demonstrating deep analytical and research capabilities.",
 		url: "https://researchgovernmentpolicies.com",
 		tech: "Economic Analysis, Data Analysis",
 	},
 	{
-		title: "PortfolioPilot: Financial Portfolio Management Software",
-		description: "Created a financial portfolio management tool using Excel, VBA, and Capital IQ, showcasing expertise in financial modeling and software development.",
+		title: "ServeAI Solutions",
+		description: "Created an AI-integration agency, to help local businesses adopt cutting edge technologies and bolster operations.",
 		url: "https://portfoliopilot.com",
-		tech: "Excel, VBA, Capital IQ",
+		tech: "Bland.ai, ReactJS, Marketing Automation",
 	},
 	{
 		title: "Dropshipping E-commerce Store for Basketball Apparel",
