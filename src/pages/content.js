@@ -6,7 +6,7 @@ export const pronouns = "he/him"
 export const website = "linkedin.com/in/michael-chen/"
 
 // About
-export const about = "A forward-thinking Economics and Computer Science graduate with a knack for leveraging AI technologies to enhance efficiency and creativity across various sectors. Known for my ability to ask the right questions, I excel in problem-solving and prompt-engineering, aiming to bring these skills into new roles to drive innovation and process optimization."
+export const about = "Analytical and driven, my education in Economics and Computer Science complements a hands-on approach to AI technology. I thrive on engaging directly with challenges, harnessing my interpersonal skills to inspire innovative solutions and process enhancements."
 
 // Work Experience --> #work section
 export const work = [
@@ -90,17 +90,17 @@ export const education = [
 // Contact --> #contact section
 export const contact = [
 	{
-		source_name: "Email",
+		source_name: "Email Me!",
 		source: "chen1350@mylaurier.ca",
 	},
 	{
-		source_name: "LinkedIn",
-		source: "https://www.linkedin.com/in/michael-chen-547744129/",
-	},
-	{
-		source_name: "Phone",
+		source_name: "Call Me!",
 		source: "647-473-7333",
 	},
+	{
+		source_name: "View My Socials!",
+		source: "https://www.linkedin.com/in/michael-chen-547744129/",
+	}
 ]
 
 // Certifications --> #certificate section
