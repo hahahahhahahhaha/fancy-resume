@@ -73,8 +73,15 @@ export const education = [
 		from: "2020",
 		to: "2024",
 		institute: "Wilfrid Laurier University",
-		course: "Honours Bachelor of Arts in Economics, Minor in Computer Science",
+		course: "Honours BA in Economics • Minor in Computer Science",
 		location: "Waterloo, Ontario"
+	},
+	{
+		from: "2014",
+		to: "2019",
+		institute: "St. Augustine Catholic HS",
+		course: "DECA Student Instructor, Honour Roll Student, Basketball Captain",
+		location: "Markham, Ontario"
 	}
 ]
 

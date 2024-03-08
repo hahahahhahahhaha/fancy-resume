@@ -61,19 +61,3 @@ To add or remove a field from the CV, simply go to `Container.astro` in `src/com
 
 - To Add a new field, add a new `<AccordionLayout />` component, with appropriate props and child component. Make sure add the data of field in proper format in `content.js`.
 - To Remove an already existing field, simply comment out the `<AccordionLayout />` component of that particular field or remove it. Removing its content from `content.js` is a choice.
-
-## Contributing
-
-Suggestions and pull requests are welcomed! Feel free to open a discussion or an [issue](https://github.com/uskhokhar/astro-vitae/issues) for a new feature request or bug.
-
-## License
-
-Astro-Vitae is licensed under the MIT license — see the [LICENSE](https://github.com/uskhokhar/astro-vitae/blob/main/LICENSE) file for details.
-
-## Contributors
-
-<a href="https://github.com/uskhokhar/astro-vitae/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=uskhokhar/astro-vitae" />
-</a>
-
-Happy Hecking 🙌 
